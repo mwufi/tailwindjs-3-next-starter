@@ -1,4 +1,8 @@
+# Tailwind.js 3.0 + Next.js starter
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+It comes with Tailwind 3.0, installed as per the docs!
 
 ## Getting Started
 
